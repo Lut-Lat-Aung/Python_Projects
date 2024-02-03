@@ -1,6 +1,11 @@
 # Python_Projects
 Repository for python projects
 
+
+
+<br>
+<br>
+<br>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
