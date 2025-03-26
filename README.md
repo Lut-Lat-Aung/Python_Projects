@@ -1,7 +1,8 @@
 # Python_Projects
 Repository for python projects
 
-
+In this repo
+- Snake Game Display for Github Contribution Map
 
 <br>
 <br>
